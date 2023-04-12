@@ -2,9 +2,6 @@ Stelight is an advanced OSINT suite with amazing features for collecting informa
 
 
 
-
-    • Features
-
 Phone Searcher: is an essential tool for anyone who wants to gain more information about a particular phone number, With its powerful search capabilities and advanced features.
 
     •  Caller ID
@@ -22,5 +19,6 @@ Data Breach Searcher: is a tool that allows users to search for their personal i
     • Clear-text Passwords
     
     
-    Join our [Discord Server](https://discord.gg/XnYRm7Q3XM) for more informations.
+    Join our Discord Server for more informations.
+    Link: https://discord.gg/XnYRm7Q3XM 
     
